@@ -1,0 +1,33 @@
+.image-carousel{
+	background-image: url(../assets/images/photos/cat_paw.jpg);
+	background-size: cover;
+  background-position: center center;
+	position: inline-block;
+	width: 100vw;
+	height: 100vh;
+}
+
+.carousel-slider .col-sm{
+  height: .7rem;
+}
+
+.service-card img{
+  z-index: 2;
+}
+
+.service-card-body{
+  margin-top: -2rem !important;
+  border-radius: 1rem;
+}
+
+.section-preview{
+  height: 80vh;
+  background-image: url(../assets/images/photos/preview.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg-green-main{
+  background-color: #4AB374;
+}
+

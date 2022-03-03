@@ -1,0 +1,22 @@
+{
+  "name": "mooza-landing",
+  "version": "1.0.0",
+  "description": "Serving static files of Mooza landing",
+  "main": "app.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirHmzh/moozalanding.git"
+  },
+  "author": "amirudeen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MirHmzh/moozalanding/issues"
+  },
+  "homepage": "https://github.com/MirHmzh/moozalanding#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
