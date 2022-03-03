@@ -18,6 +18,9 @@
 .service-card-body{
   margin-top: -2rem !important;
   border-radius: 1rem;
+  -webkit-box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+  box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
 }
 
 .section-preview{
@@ -27,7 +30,27 @@
   background-position: center center;
 }
 
+.section-around{
+  background-color: #4AB374;
+  color: white;
+}
+
+.btn-main-white{
+  border-color: rgba(0,0,0,0);
+  color: #4AB374;
+  background-color: white;
+  -webkit-box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+  box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+}
+
 .bg-green-main{
   background-color: #4AB374;
+}
+
+.shadow{
+  -webkit-box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+  -moz-box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
+  box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
 }
 
