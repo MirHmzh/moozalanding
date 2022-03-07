@@ -54,3 +54,7 @@
   box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
 }
 
+.navbar-light .navbar-toggler{
+  border: none;
+}
+
