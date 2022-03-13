@@ -54,6 +54,10 @@
   box-shadow: 9px 8px 23px -7px rgba(0,0,0,0.75);
 }
 
+.navbar{
+  background: linear-gradient(180deg, rgba(0,0,0,0.5) 0%, rgba(255,255,255,0) 85%);
+}
+
 .navbar-light .navbar-toggler{
   border: none;
 }
