@@ -62,17 +62,23 @@
     width: 15em;
   }*/
 
-@media only screen and (min-width: 576px)  {
+@media only screen and (max-width: 980px)  {
   .navbar-brand img{
-    width: 15em;
+    width: 10em;
+  }
+  .lh-1{
+    text-align: center;
+  }
+  .main-cta{
+    text-align: center;
   }
 }
-@media only screen and (min-width: 992px)  {
+
+@media only screen and (max-width: 4096px)  {
   .navbar-brand img{
     width: 10em;
   }
 }
-
 
 /* check */
 
