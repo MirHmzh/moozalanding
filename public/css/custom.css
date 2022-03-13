@@ -58,13 +58,13 @@
   border: none;
 }
 
-/*.navbar-brand img{
-    width: 15em;
-  }*/
-
-@media only screen and (max-width: 980px)  {
-  .navbar-brand img{
+.navbar-brand img{
     width: 10em;
+  }
+
+@media only screen and (max-width: 980px) {
+  .navbar-brand img{
+    width: 15em;
   }
   .lh-1{
     text-align: center;
@@ -74,11 +74,11 @@
   }
 }
 
-@media only screen and (max-width: 4096px)  {
+/*@media only screen and (max-width: 4094px)  {
   .navbar-brand img{
     width: 10em;
   }
-}
+}*/
 
 /* check */
 
