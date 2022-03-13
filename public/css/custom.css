@@ -59,18 +59,32 @@
 }
 
 .navbar-brand img{
-    width: 10em;
-  }
+  width: 10em;
+}
 
 @media only screen and (max-width: 980px) {
   .navbar-brand img{
     width: 15em;
   }
   .lh-1{
-    text-align: center;
+    font-size: 8em;
   }
-  .main-cta{
+  .head-cta{
+    bottom: 8em;
+    position: absolute;
+    margin: auto;
     text-align: center;
+    width: 100%;
+  }
+  #main-cta-appstore,#main-cta-googleplay{
+    font-size: 2em;
+    padding-top: 0.50em !important;
+    padding-bottom: 0.50em !important;
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+  }
+  #main-cta-appstore img,#main-cta-googleplay img{
+    width: 1.2em;
   }
 }
 
